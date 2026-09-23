@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module TOP#(
     parameter TEXT_GROUP_SIZE = 8,
     parameter TEXT_LENGTH = 128

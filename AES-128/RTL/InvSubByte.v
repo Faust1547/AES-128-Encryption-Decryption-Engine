@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module InvSubByte #(
     parameter TEXT_LENGTH = 128
 )(

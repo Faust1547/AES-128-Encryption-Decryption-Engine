@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module MixColumnUnit(
     input  wire [31:0] Col_in,   // A0,A1,A2,A3
     output wire [31:0] Col_out   // b0,b1,b2,b3

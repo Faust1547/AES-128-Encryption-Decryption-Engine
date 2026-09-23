@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module Control_Unit_V2 #(
     parameter TEXT_GROUP_SIZE = 16,
     parameter TEXT_LENGTH     = 128

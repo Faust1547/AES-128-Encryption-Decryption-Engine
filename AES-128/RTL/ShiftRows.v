@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module ShiftRow #(
     parameter TEXT_LENGTH = 128
 )(

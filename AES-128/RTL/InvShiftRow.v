@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module InvShiftRow #(
     parameter TEXT_LENGTH = 128
 )(
