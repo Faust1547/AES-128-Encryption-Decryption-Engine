@@ -20,7 +20,7 @@ Results
 ## RTL Simulation
 透過 Testbench 驗證 AES-128 加密與解密功能，比對預期結果與實際輸出，並展示六組測試案例之 Post-simulation 通過結果。
 
-## VLSI Implement
+## Physical Implementation
 | Specification | TSMC 90 nm 1P9M | TSMC N16 ADFP |
 |---|---|---|
 | Frequency | 200 MHz | 1.25 GHz |
