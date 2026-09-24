@@ -26,7 +26,7 @@ Results
 | Frequency | 200 MHz | 1.25 GHz |
 | Timing Closure | Setup / Hold Met | Setup / Hold Met|
 | Dynamic Power | 17.7559 mW | 10.6 mW |
-| Cell Leakage Power | 461.4556 μW |
+| Cell Leakage Power | 461.4556 μW | 0.582 μW | 
 | Core Area | 557,343.647 μm² | 10,777.54 μm² |
 | Chip Area | 1,044,749.730 μm² | 21,025.00 μm² |
 | LVS | Correct | Correct |
