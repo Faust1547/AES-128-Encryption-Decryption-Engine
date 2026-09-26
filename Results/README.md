@@ -17,7 +17,7 @@ Results
     ├── Power
     └── Timing
 ```
-## RTL Simulation
+## Post-sim Result
 透過 Testbench 驗證 AES-128 加密與解密功能，比對預期結果與實際輸出，並展示六組測試案例之 Post-simulation 通過結果。
 
 ## Physical Implementation
